@@ -1,0 +1,1 @@
+alert("If you're happy and you know it click ok");
